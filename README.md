@@ -1,2 +1,2 @@
-# double-metaphone-swift
-Popular double metaphone algorithm rewritten in Swift.
+# metaphone-swift
+Popular enhanced metaphone algorithm rewritten in Swift 2.
