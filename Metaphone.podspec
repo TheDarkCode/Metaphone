@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "Metaphone"
-  s.version          = "0.0.0"
+  s.version          = "0.0.1"
   s.summary          = "An improved metaphone algorithm optimized for Swift 2.2."
   s.homepage         = "https://github.com/TheDarkCode/Metaphone"
   s.license          = 'MIT'
